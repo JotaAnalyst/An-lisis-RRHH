@@ -1,4 +1,4 @@
-# An-lisis-RRHH
+# Análisis-RRHH
 Análisis del departamento de RRHH de una compañía (ficticia) en el que se busca visualizar los indicadores por empleados, sueldos y desempeño en la empresa, se utilizaron funciones DAX, columnas condicionales, bookmarks (botones para paginación).
 
 https://app.powerbi.com/view?r=eyJrIjoiZDQ4NTAxYmEtYTkzMC00Mjg5LTg2NDMtY2NjYWRiZTc2Y2MzIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9
